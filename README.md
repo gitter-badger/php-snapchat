@@ -1,5 +1,6 @@
 Snapchat for PHP
 ================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hako/php-snapchat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/JorgenPhi/php-snapchat.png)](https://travis-ci.org/JorgenPhi/php-snapchat)
 
 This library is built to communicate with the Snapchat API. It was nearly
